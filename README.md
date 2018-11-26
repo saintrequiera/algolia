@@ -4,7 +4,7 @@ This project describes two search use cases based on the data produced by the Al
 * alternative searches
 * trending searches
 
-## Alternatives searches
+## Alternative searches
 
 These instructions will allow you to run the notebook : 
 * replace the path variable to the local location of the data  (path = "workspace/algolia/hn_insights_data/")
